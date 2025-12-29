@@ -1,5 +1,5 @@
 ---
 layout: post
-title: "First Post"
+title: Functions
 ---
 Hello world!
