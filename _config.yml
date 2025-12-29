@@ -1,3 +1,5 @@
 theme: minima
 title: Your Blog Title
 description: A short tagline
+timezone: America/Chicago
+future: true
